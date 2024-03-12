@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190872439962",
+    "project_id": "upeapp1-2",
+    "storage_bucket": "upeapp1-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190872439962:android:c611279ec19bd6df51e323",
+        "android_client_info": {
+          "package_name": "com.example.upeapp12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwwflZ7I6_OYp8at_gAgwNS3JmCvvxFx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
